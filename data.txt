@@ -1,0 +1,6 @@
+Do data quá lớn nên em để link trong báo cáo chứ không để vào source được ạ.
++Data của thầy: https://drive.google.com/file/d/18-AUodrP2NDTvPWC2NsDbhrZt9XO21OR/view
++Data mới được dạng YOLOv4: https://public.roboflow.com/object-detection/vehicles-openimages/1
++Data dạng COCO JSON cho detectron2: https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip
+
+
